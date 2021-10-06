@@ -1,1 +1,1 @@
-# DevOPS-Lesson-1
+# DevOPS course
