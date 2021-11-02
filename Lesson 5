@@ -1,0 +1,6 @@
+1. AWS instance is created - https://share.getcloudapp.com/4guP9x2K
+2. Configure AWS autoscaling group - https://share.getcloudapp.com/12uPKJ4r
+3. Create virtual network with private and public subnet: VPC w/ private and public subnets - https://share.getcloudapp.com/X6ub95Qk . 
+   Can't connect to Instance that is used Private subnet - https://share.getcloudapp.com/z8u1PGqx | https://share.getcloudapp.com/jkuEeAlN
+   Can connect to Instance that is used Public subnet - https://share.getcloudapp.com/Z4ur6ny5 | https://share.getcloudapp.com/rRuWkg0z
+
